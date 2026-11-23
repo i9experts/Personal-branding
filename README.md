@@ -1,5 +1,7 @@
 # Ayubi Growth Engine — 0 → 1 Lakh (Instagram + YouTube)
 
+> **Update (23 Nov):** Instagram is the focus. See `audit-instagram.md` and `content/instagram-30-day-calendar.csv`. Faceless reels in the parenting/tarbiyat lane replace the face-on-camera advice below, and the plan involves no hiring.
+
 Starting point (23 Nov 2026): Instagram **122** followers / 21 posts / 9.9K views (30d) · YouTube **423** subs / 45.3K lifetime views / **14 views last 7 days**.
 
 ## 1. Diagnosis (from your own numbers)
@@ -48,7 +50,6 @@ Everything after that is automated or delegated:
 | Full episode to YouTube | YouTube Studio schedule (Sunday 8 PM PKT) | Automatic |
 | Comment "FRAMEWORK" → auto-DM a free PDF + follow request | **ManyChat** (Instagram) — this is the #1 legit follower multiplier | Fully automatic |
 | Replies/engagement | 10 min/day replying to comments in the first hour after posting | Manual (cannot be safely automated) |
-| Editing/uploading queue | Hire a part-time editor on Fiverr/Upwork (~PKR 15–25K/month) to do steps 1–2 | Delegated |
 
 **Output per week from 2 hours of your time:** 1 long YouTube video + ~12 Reels/Shorts (≈2 per day on both platforms).
 
