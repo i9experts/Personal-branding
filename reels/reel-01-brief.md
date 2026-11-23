@@ -1,28 +1,20 @@
-# Reel 01 — "School ✅ Tuition ✅ Mobile ✅ … Tarbiyat? ❌" (Part 2)
+# Reel 01 (rewritten) — "Abbu, mujhe bhi phone chahiye!"
+Series: **Summayya ke Sawal** — Summayya (small, curious, always asks) & Alqama (older brother, ~14) disagree; Abbu mentors with an example + reasoning. Max 30 sec.
 
-**Length:** ~30 sec · 9:16 · **Voice:** Danish Tufail (ElevenLabs clone) · **Style:** bright 3D-cartoon (like your 1.7K reel), fast cuts every 2–3 sec, bold kinetic text, zoom-punches, tick/whoosh sound effects.
+**Style:** soft 2D storybook cartoon (Noor Circles look) · characters per `reels/characters-final.jpg` (+ Summayya, pending photo) · no adult women on screen · no music, voice + light SFX.
 
-**Content rules:** no women shown (the mother is never on screen) · no music, voice + light sound effects only · nothing un-Islamic in visuals or text · characters: one boy (~9 yrs) and his bearded father.
+## Voices
+- Abbu — Danish Tufail clone
+- Summayya — "Mini" (ElevenLabs library, little-girl voice) — sample pending approval
+- Alqama — custom-designed teen boy voice — pending
 
-## Voiceover (Urdu, sent to the voice clone)
-اسکول ✅ ٹیوشن ✅ نیا موبائل ✅ … لیکن ایک چیز رہ گئی۔
-ہم بچے کو سب کچھ دیتے ہیں — اچھا اسکول، مہنگی ٹیوشن، نیا فون۔
-لیکن جو چیز وہ سب سے زیادہ مانگتا ہے، وہ ہم نہیں دیتے… ہمارا وقت۔
-آج رات صرف دس منٹ۔ فون سائیڈ پہ رکھیں، اور بچے سے پوچھیں: آج سب سے اچھی بات کیا ہوئی؟
-یہ دس منٹ وہ کام کریں گے جو کوئی ٹیوشن نہیں کر سکتی۔
-یہ ریل اُن ماں باپ کو بھیجیں جنہیں اس کی ضرورت ہے۔
-
-## Scenes
-| # | Sec | Visual | On-screen text |
-|---|---|---|---|
-| 1 | 0–3 | Boy walks into a school gate with a bag; a big tick pops in | **School ✅** |
-| 2 | 3–6 | Boy at a tuition desk, male tutor, books flying open | **Tuition ✅** |
-| 3 | 6–9 | Boy in bed, face lit blue by a new phone | **Mobile ✅** |
-| 4 | 9–15 | Father on the sofa scrolling his phone; boy stands holding a drawing, ignored | **Tarbiyat? ❌** (red X shakes) |
-| 5 | 15–24 | Father puts the phone face-down, sits on the floor with the boy, both laughing, warm lamp light | **Sirf 10 minute** · "Aaj sab se achhi baat kya hui?" |
-| 6 | 24–30 | End card: the drawing pinned on the wall | **Ye us maa-baap ko bhejein 📩** · @ayubi_blog |
-
-## Production options
-- **A. Animated (premium):** 5 AI images + 5 animated 5-sec clips (Kling) ≈ **35 Higgsfield credits per reel**, about 105 for 3 reels (you have 287).
-- **B. Motion-design (budget):** 5 AI images + zoom/pan, kinetic text and SFX added in editing ≈ **4 credits per reel**.
-Editing, captions and the voiceover mix are assembled by me in both cases. The voiceover uses a small amount of your ElevenLabs credits.
+## Script (~28 sec)
+| Who | Line (Roman Urdu) | Visual |
+|---|---|---|
+| Alqama (excited) | "Abbu! Mujhe bhi phone chahiye — class mein sab ke paas hai!" | Alqama bursts in, pointing at Abbu's phone |
+| Summayya (curious) | "Lekin Abbu, aap hi toh kehte ho phone waqt kha jata hai… toh sab kyun lete hain?" | Summayya peeks from behind the sofa, finger on chin, question marks pop |
+| Abbu (calm, smiling) | "Dono theek keh rahe ho. Phone chhuri ki tarah hai — sabzi bhi kaat-ti hai, aur ghalat haath mein ho toh ungli bhi." | Abbu kneels to their level; split visual: knife + vegetables / bandaged finger (cartoon) |
+| Abbu | "Masla chhuri nahi — use karne ka tareeqa hai." | Big text: **Tool hai, maalik nahi** |
+| Abbu | "Toh shart ye hai: phone sab ke saamne chalega, aur Isha ke baad phone so jayega." | Phone tucked into a tiny cartoon bed with a blanket |
+| Summayya (giggles) | "Aur Bhai bhi?" | Alqama rolls his eyes, all three laugh |
+| On-screen only | "Apne bachon ke saath dekhein 📩" | End card + @ayubi_blog |
